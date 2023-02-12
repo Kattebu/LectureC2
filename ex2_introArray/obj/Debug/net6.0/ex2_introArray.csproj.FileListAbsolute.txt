@@ -1,0 +1,15 @@
+C:\Users\user\Documents\программирование\C#(3)\lecture2\ex2_introArray\bin\Debug\net6.0\ex2_introArray.exe
+C:\Users\user\Documents\программирование\C#(3)\lecture2\ex2_introArray\bin\Debug\net6.0\ex2_introArray.deps.json
+C:\Users\user\Documents\программирование\C#(3)\lecture2\ex2_introArray\bin\Debug\net6.0\ex2_introArray.runtimeconfig.json
+C:\Users\user\Documents\программирование\C#(3)\lecture2\ex2_introArray\bin\Debug\net6.0\ex2_introArray.dll
+C:\Users\user\Documents\программирование\C#(3)\lecture2\ex2_introArray\bin\Debug\net6.0\ex2_introArray.pdb
+C:\Users\user\Documents\программирование\C#(3)\lecture2\ex2_introArray\obj\Debug\net6.0\ex2_introArray.csproj.AssemblyReference.cache
+C:\Users\user\Documents\программирование\C#(3)\lecture2\ex2_introArray\obj\Debug\net6.0\ex2_introArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\программирование\C#(3)\lecture2\ex2_introArray\obj\Debug\net6.0\ex2_introArray.AssemblyInfoInputs.cache
+C:\Users\user\Documents\программирование\C#(3)\lecture2\ex2_introArray\obj\Debug\net6.0\ex2_introArray.AssemblyInfo.cs
+C:\Users\user\Documents\программирование\C#(3)\lecture2\ex2_introArray\obj\Debug\net6.0\ex2_introArray.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\программирование\C#(3)\lecture2\ex2_introArray\obj\Debug\net6.0\ex2_introArray.dll
+C:\Users\user\Documents\программирование\C#(3)\lecture2\ex2_introArray\obj\Debug\net6.0\refint\ex2_introArray.dll
+C:\Users\user\Documents\программирование\C#(3)\lecture2\ex2_introArray\obj\Debug\net6.0\ex2_introArray.pdb
+C:\Users\user\Documents\программирование\C#(3)\lecture2\ex2_introArray\obj\Debug\net6.0\ex2_introArray.genruntimeconfig.cache
+C:\Users\user\Documents\программирование\C#(3)\lecture2\ex2_introArray\obj\Debug\net6.0\ref\ex2_introArray.dll
